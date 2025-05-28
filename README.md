@@ -47,7 +47,9 @@ git clone https://github.com/clinton2720/expense_tracker.git
 cd expense_tracker
 pip install pandas
 python tracker_gui.py
+```
 
-📬 Contact
+
+## 📬 Contact
 Built by Clinton Vincent
 Currently improving it every week. Feedback welcome.
